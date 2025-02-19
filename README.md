@@ -1,7 +1,7 @@
 # NBA Data Analysis
 
 ## Overview
-This project analyzes NBA player data to uncover insights into player performance, game trends, and statistical correlations. The analysis includes data cleaning, statistical analysis, and interactive visualizations using Python.
+This project analyzes NBA player data from 2018-19 to the present (2024-2025) to uncover insights into player performance, game trends, and statistical correlations. The analysis includes data cleaning, statistical analysis, and interactive visualizations using Python.
 
 ## Dataset
 - **Source**: `nba_play_data.xlsx`
@@ -48,13 +48,13 @@ This project includes several interactive **Plotly visualizations**, created usi
 
 ## Results
 - The project provides insights into NBA player performance trends.
-- Interactive visualizations allow for deeper exploration of statistics.
+- Interactive visualizations allow for a deeper exploration of statistics.
 
 ## Future Work
-- Expand dataset to include more seasons.
+- Expand the dataset to include more seasons.
 - Implement machine learning models for player performance prediction.
 
 ## Author
-Developed by [Your Name] - Contributions and feedback are welcome!
+Developed by Marcus Li
 
 
